@@ -1,8 +1,10 @@
 #include "main.h"
 /**
-*main -print_putchar
-*return: 0
-*/
+ * main - writes the character c to stdout
+ * _putchar : The character to print
+ *
+ * Return: On success 1.
+ */
 int main(void)
 {
 	_putchar('_');
