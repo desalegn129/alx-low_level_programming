@@ -5,6 +5,6 @@ int main(void)
  * retuns 0 while success
  */
 {
-	printf("_putchar");
+	printf("_putchar\n");
 	return (0);
 }
