@@ -2,7 +2,7 @@
 #include"main.h"
 
 /**
- * main - Prints the greatest prime factor of the given number 
+ * main - Prints the greatest prime factor of the given number
  * Return: 0
  */
 
